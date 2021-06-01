@@ -8,6 +8,7 @@ import urllib
 import urllib.request
 import json
 import socket
+import gi
 from os import system, name
 def clear():
   
